@@ -1,0 +1,104 @@
+﻿ls				list files and directories
+ls -a			list all files and directories
+ls -la			list all files, directories and permissions
+mkdir			make a directory
+cd directory	change to named directory
+cd				change to home-directory
+cd ~			change to home-directory
+cd ..			change to parent directory
+pwd				display the path of the current directory
+clear			cleans screen
+
+cp file1 file2		copy file1 and call it file2
+mv file1 file2		move or rename file1 to file2
+rm file				remove a file
+rmdir directory		remove a directory (if it’s empty)
+rm -r directory		remove a full directory
+rm -rf directory	remove fucking everything
+cat file			display a file
+more file			display a file a page at a time
+head file			display the first few lines of a file
+tail file			display the last few lines of a file
+grep 'keyword'	 	file	search a file for keywords
+wc file				count number of lines/words/characters in file
+mv old-filename new-filename	rename file 
+
+cat > list1			create a file called list1 and type names of fruit, pressing return after each one (concatenate)
+
+pear
+banana
+apple
+(control + D to stop)
+
+cat >> list1				add more fruits to the file
+cat list1 list2 > biglist	adds list1 and list2 to a big list (cat biglist to read it)
+
+sort						alphabetically or numerically sorts a list
+sort < biglist				sort biglist
+sort < biglist > slist		sort biglist and create a new file with the sorted items
+
+who							see who is on the system with you
+who | sort					sort who's on the system with you
+who | wc -l					sort how many users are logged on
+
+ls list*					search for list and something else (like EdocLink)
+ls *list					same, before
+ls ?list					will match exactly one character (?ouse will match house, mouse, NOT grouse)
+
+man wc						find out more about wc command (manual)
+whatis wc					one-line description of the command itself
+apropos keyword				will give me the command with keyword in their manual page header
+
+ls -l						check details about contents of the directory
+chmod go-rwx file			remove read write and execute permissions on the file or directory
+chmod a+rw file 			give read and write permissions on the file or directory to all
+
+ps							see information about processes
+ps -ax						see information about all processes (even outside of the terminal)
+sleep 10					sleep for 10 seconds
+sleep 10 &					runs the job in the background, allowing you to run other programs while waiting for that one to finish
+
+control + z 				while processes are running stops them
+bg							puts it in the background
+
+jobs						examine job list
+fg %jobnumber				restart a suspended process
+fg with no job number		foregrounds the last suspended process
+
+control + c					kills running process
+kill %jobnumber				kills a suspended or background process
+kill 20077					kills process with that PID number (to check PID use 'ps' command)
+kill -9 20077				kills a process that refuses to be killed
+
+df .						check how much space is left on the fileserver
+du							check the number of kilobytes used by each subdirectory
+gzip file					zips a file
+gunzip file.gz				unzips a file
+file *						classifies the named files according to the type of data they contain
+history						shows command history list
+!!							recall last command
+!-3							recall third most recent command)
+!5							recall 5th command in list
+!grep						recall last command starting with grepps
+
+
+control + T					open new terminal tab
+
+
+|							pipe (‘ps | less’, for instance)
+top							see all running processes in real-time
+wall						send message to everybody’s terminal
+*							Matches any number of any characters
+?							Matches any single character
+\char						Ignore shell’s special meaning of char
+command < file				Input the content of file to the command
+command > file				Send the output of command to the end of the file
+command_1 | command_2		Send the output of command_1 as the input of command_2
+apropos						Search for a keyword (to know the name of a command)
+scp file destination		make a secure copy of a file to a destination
+TEST=“Unix tutorial”		set a UNIX environment variable
+javac file.java				compile java file
+java file.java				run java file
+
+echo $TEST					print its value
+ln -s /var/git/bootcamp8.git	create a link to the 8th bootcamp git (called bootcamp8)

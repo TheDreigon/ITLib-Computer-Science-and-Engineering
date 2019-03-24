@@ -1,0 +1,177 @@
+https://josephg.com/blog/what-i-tell-all-new-programmers/
+
+http://overapi.com/ -> very useful cheat sheet site for coding
+
+https://projecteuler.net/ -> an excellent website. Project Euler is a series of challenging mathematical/computer programming problems
+
+https://www.freecodecamp.com/
+
+https://teamtreehouse.com/
+https://codecombat.com/
+
+https://www.w3schools.com/
+
+https://www.codingame.com/start
+
+https://code.org/
+
+https://www.codecademy.com/
+
+http://appinventor.mit.edu/explore/ <- for apps
+
+https://developers.google.com/ <- Android app development
+
+https://www.appacademy.io/
+
+https://www.codeplace.com/stuk-io   https://www.codeplace.com/
+
+http://www.learncpp.com/
+
+http://stackoverflow.com/
+
+https://www.hackthissite.org/pages/index/index.php
+
+https://www.hacking-lab.com/index.html
+
+https://www.quora.com/What-programming-languages-should-I-learn-for-web-development-My-goal-is-to-build-a-text-based-game-online-I-have-never-coded-before/answers/18942844
+
+http://akmb7t5w56jcfgwf.onion/books/sorted/Macmillan/The%20Complete%20Idiot's%20Guide%20to%20Creating%20a%20HTML%20Web%20Page/index.html -> Learn how to create an HTML Web Page (DEEP WEB)
+
+http://akmb7t5w56jcfgwf.onion/books/sorted/Dr.Dobbs/Essential%20Books%20on%20Algorithms%20and%20Data%20Structures/start.htm -> Essential Books on Algorithms and Data Structures (Up to Date?)
+
+http://akmb7t5w56jcfgwf.onion/books/sorted/47%20O'Reilly%20Books/books/python/O'Reilly%20-%20Core%20Python/new_toc.html -> Book on Python Learning
+
+http://akmb7t5w56jcfgwf.onion/books/sorted/47%20O'Reilly%20Books/books/python/O'Reilly%20-%20Python%20Developer's%20Handbook/new_toc.html -> Same as Above
+
+https://bento.io/
+
+https://code.tutsplus.com/tutorials/the-best-way-to-learn-ruby-on-rails--net-21820
+
+http://marksheet.io/
+
+https://github.com/open-source-society
+
+https://developer.android.com/training/basics/firstapp/index.html
+
+http://www.skulpt.org/
+
+https://www.tutorialspoint.com/computer_programming/
+
+https://coderdojo.com/
+
+https://dash.generalassemb.ly/
+
+https://www.codewars.com/
+
+http://gameprogrammingpatterns.com/contents.html
+
+https://launchschool.com/books
+
+https://www.vikingcodeschool.com
+
+https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/info
+
+https://www.codementor.io/codementorteam/7-secrets-to-staying-motivated-when-learning-to-code-a2dy7hqar
+
+https://www.reddit.com/r/AskReddit/comments/86jz1x/programming_lords_of_reddit_what_are_your_tips/
+https://www.reddit.com/r/learnprogramming/wiki/books
+https://www.reddit.com/r/learnprogramming/wiki/online
+
+https://interactivepython.org/runestone/static/thinkcspy/index.html
+http://www.diveintopython3.net/
+https://learnpythonthehardway.org/
+
+https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A -> CS Dojo, a great youtube channel on learning programming
+https://www.youtube.com/user/TPayneExperience -> Trevor Payne, great youtube channel on learning programming
+https://www.youtube.com/user/Albert10110/videos -> youtube channel  on programming
+https://www.youtube.com/user/DrapsTV/videos -> DrapsTV, a great youtube channel on learning programming
+https://www.youtube.com/channel/UCtzDFZwZK-EGMXFEMi2NaMA/videos -> FromZero, a great youtube channel on learning programming
+https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw -> TechLead, insightful and funny youtube channel on programming and related
+https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw -> JomaTech, insightful and funny youtube channel on programming and related
+https://www.youtube.com/channel/UCfDeK4zVAMn14b2vzI1xExw/videos -> youtube channel on programming and very techinical software info
+
+http://carlcheo.com/startcoding
+
+https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/courseware -> Computer Science 101 course with professor Nick Parlante!
+
+http://codingbat.com/java -> a bunch of java coding exercises and some tutorial videos with professor Nick Parlante!
+http://codingbat.com/python -> a bunch of python coding exercises
+
+https://www.codechef.com/
+
+https://repl.it/languages
+
+https://www.impressivewebs.com/javascript-for-loop/
+
+http://blog.niftysnippets.org/2008/03/horror-of-implicit-globals.html
+
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript
+
+https://codepen.io/#
+
+https://www.codesimplicity.com/post/the-secret-of-fast-programming-stop-thinking/
+
+https://developer.mozilla.org/en-US/
+
+https://www.youtube.com/watch?v=k6U-i4gXkLM -> Prof Eric Grimson's MIT 6.00 Introduction to Computer Science and Programming, Fall 2008
+
+https://dzone.com/
+
+http://challenge.academiadecodigo.org/unix/ (my account info is "username: guest33 / password: [my id]")
+
+https://www.sanfoundry.com/java-questions-answers-freshers-experienced/ -> tons of Java questions and answers
+https://www.sanfoundry.com/best-reference-books-java-programming-data-structures-algorithms/ -> same site as above, now with great book references
+
+https://resume.mcalglobal.com/socialresume/user/take-quiz.htm?catid=java&nameid=35df0f10-6d5b-4e34-a690-a885b92c8a18 -> more Java questions and answers
+
+https://www.codechef.com/
+
+https://programmingpraxis.com/contents/standard-prelude/
+
+https://css-tricks.com/guides/
+
+https://egghead.io/ -> very nice complete Javascript site
+
+https://www.geeksforgeeks.org/java/
+
+https://leetcode.com/problemset/all/ -> site to practise coding
+
+https://www.careercup.com/page?pid=java-developer-interview-questions&topic=java-interview-questions
+
+http://www.academictutorials.com/javascript/
+
+https://www.academia.edu/Documents/in/Computer_Science
+
+https://flaviocopes.com/ -> excelent blogged-styled style with great books for frontend development
+
+https://www.javatpoint.com/ -> really, really great overall theoric revisions site
+
+https://www.sololearn.com/Courses/ -> great site 
+
+https://app.codility.com/programmers/lessons/1-iterations/ -> great site too
+
+https://www.hackerrank.com/ -> coding practise site
+
+https://freecoursesite.com/
+https://www.freetutorials.eu/
+
+https://start.spring.io/
+
+https://gitconnected.com/learn -> an "hub" of tutorials. very nice
+
+http://javascript.info/
+
+https://github.com/evilFrog5477/Java-Fundamentals-Checklist
+
+https://pt.quora.com/Quais-s%C3%A3o-as-vantagens-de-ter-um-curso-em-ci%C3%AAncia-de-computadores-em-rela%C3%A7%C3%A3o-a-ser-um-programador-autodidata
+https://pt.quora.com/Quais-s%C3%A3o-os-conceitos-mais-complicados-que-todo-programador-deve-entender
+
+
+https://stagiu.pentalog.ro/#/welcome -> IT courses site
+
+https://www.guru99.com/java-tutorial.html -> complete Java tutorial. this site has more tutorials too
+
+https://github.com/thoughtbot/guides/tree/master/style -> A guide for programming in style
+
+http://archive.oreilly.com/oreillyschool/courses/courses.html -> it's O'Reilly. amazing course selection
+

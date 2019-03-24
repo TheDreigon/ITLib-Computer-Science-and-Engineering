@@ -1,0 +1,10 @@
+<html>
+ <head>
+  <title>A minha primeira webpage ye bby</title>
+ </head>
+ <body>
+   <h1>Olá a todos os cowboys da meia-noite, o jogo vai começar</h1>
+   <p>Este parágrafo é muito bonito bby</p>
+   <p>E este também</p>
+ </body>
+</html>

@@ -1,0 +1,4 @@
+http://javascript.info/
+
+http://archive.oreilly.com/oreillyschool/courses/javascript1/index.html
+

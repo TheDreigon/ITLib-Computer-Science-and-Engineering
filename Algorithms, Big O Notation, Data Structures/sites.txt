@@ -1,0 +1,12 @@
+https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3
+
+https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz4tUeeQOAU
+
+https://javarevisited.blogspot.com/2017/07/top-10-linked-list-coding-questions-and.html#axzz4xXS86IVo
+
+http://www.java67.com/2018/06/data-structure-and-algorithm-interview-questions-programmers.html
+
+http://archive.oreilly.com/oreillyschool/courses/data-structures-algorithms/index.html
+
+https://github.com/mincong-h/algorithm-princeton
+
